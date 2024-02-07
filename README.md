@@ -1,7 +1,7 @@
 # Hello 👋
 
 
-## 🛠️ Install Dependencies    
+## 🛠️ Install 
 ```bash
 git clone https://github.com/Sebqstien/Docker.git
 
